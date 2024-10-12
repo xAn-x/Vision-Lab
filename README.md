@@ -5,7 +5,7 @@ Welcome to my Vision Lab repository! This collection features a range of compute
 
 <img src="./images/vision-lab.webp" href="vision-lab-banner" style="width:80%; max-height:400px">
 
-In this repository, I focus on building foundational models in computer vision, with each implementation designed to provide insights into the underlying mechanics and applications of these architectures. Whether you’re a beginner eager to grasp the basics or an experienced practitioner interested in novel approaches, I hope you find something valuable here.
+In this repository, I focus on building foundational models in computer vision, with each implementation designed to provide insights into the underlying mechanics and applications of these architectures. 
 
 I plan to expand this repository with the following implementations:
 
