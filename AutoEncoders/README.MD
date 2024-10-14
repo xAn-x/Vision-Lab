@@ -22,6 +22,6 @@ This repository contains the architecture of convolutional and simple autoencode
 | **Training Loss:** | <img width="80%" style="max-height: 350px;" alt="simple_autoencoder_training_loss" src="../images/simple_autoencoder_training_loss.png"> |
 | **Validation Loss:** | <img width="80%" style="max-height: 350px;" alt="simple_autoencoder_validation_loss" src="../images/simple_autoencoder_validation_loss.png"> |
 <br>
-`Generated Images:` 
+`Reconstructed Images:` 
 <img width="80%" style="max-height: 350px;" alt="simple_autoencoder_gen_images" src="../images/simple_autoencoder_gen_images.png"> 
 ---
