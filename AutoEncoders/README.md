@@ -61,7 +61,6 @@ This repository contains the architecture of various autoencoders.
 | **Generated Images:** | <img width="80%" style="max-height: 350px;" alt="vae_generated_images" src="../images/vae_generated_images.png"> |
 | **Sampled from Latent Space:** | <img width="80%" style="max-height: 350px;" alt="vae_sampled_latent_space" src="../images/sampled-from-latent-space.png"> |
 
-<<<<<<< HEAD
 ---
 
 ### 3. Conditional Variational Autoencoder (CVAE)
@@ -84,6 +83,3 @@ This repository contains the architecture of various autoencoders.
 <img width="80%" style="max-height: 350px;" alt="ConditionalVAE_final_result" src="../images/ConditionalVAE-final-result.png">
 
 ---
-=======
-----
->>>>>>> eaf7009fc33ce6edcadfa7db1c5b0b14c4e20515
