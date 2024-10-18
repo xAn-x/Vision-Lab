@@ -58,4 +58,23 @@ This repository contains the architecture of various autoencoders.
 
 ---
 
-This layout provides a clean and organized structure for displaying the metrics and generated images related to your Variational Autoencoder (VAE). Make sure that all image paths match the actual location in your repository. Let me know if you need further adjustments!
+### 3. Conditional Variational Autoencoder (CVAE)
+| **Metric**   | **Image** |
+|--------------|-----------|
+| **KL Loss:** | <img width="80%" style="max-height: 350px;" alt="ConditionalVAE_kl_loss" src="../images/ConditionalVAE-kl-loss.png"> |
+| **Reconstruction Loss:** | <img width="80%" style="max-height: 350px;" alt="ConditionalVAE_reconstruction_loss" src="../images/ConditionalVAE-reconstruction-loss.png"> |
+| **Training Loss:** | <img width="80%" style="max-height: 350px;" alt="ConditionalVAE_train_loss" src="../images/ConditionalVAE-train-loss.png"> |
+
+<br>
+
+**Reconstructed Images (vs Original):**
+
+<img width="80%" style="max-height: 350px;" alt="ConditionalVAE_reconstruction_vs_original" src="../images/ConditionalVAE-reconstruction-vs-original.png">
+
+<br>
+
+**Final Generated Result:**
+
+<img width="80%" style="max-height: 350px;" alt="ConditionalVAE_final_result" src="../images/ConditionalVAE-final-result.png">
+
+---
